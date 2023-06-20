@@ -8,6 +8,8 @@
 # testing
 /frontend/coverage
 
+# production
+/frontend/build
 
 
 # misc
