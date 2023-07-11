@@ -15,6 +15,7 @@ const Footer = () => {
         <div className="midFooter">
             <h1>Ecommerce.</h1>
             <p>High Quality is our first priority</p>
+            <p>All the images belong to their respective owners.</p>
             <p>Copyright 2023 &copy; SmithDbritto</p>
         </div>
         <div className="rightFooter">
