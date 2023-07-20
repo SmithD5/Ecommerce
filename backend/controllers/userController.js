@@ -2,7 +2,6 @@ const ErrorHandler = require("../utils/errorHandler.js");
 const catchAsyncErrors = require("../middleware/catchAsyncErrors");
 const User = require("../models/userModels");
 const sendToken = require("../utils/jwtToken");
-// const crypto = require("crypto");
 const cloudinary = require("cloudinary");
 
 // Register a User
